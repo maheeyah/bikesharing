@@ -6,7 +6,7 @@ This project explored the NYC Citi Bike bike trip analysis to see if a bike-shar
 
 The gender breakdown of Citi Bike users, the majority of Citi Bike users are male. 
 
-![This is an image](https://github.com/maheeyah/bikesharing/blob/main/Checkout%20Times%20for%20Users.png
+![This is an image](https://github.com/maheeyah/bikesharing/blob/main/Checkout%20Times%20for%20Users.png)
 
 The majority of Citi Bike rides are under 30 minutes. 
 
